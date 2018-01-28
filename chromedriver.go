@@ -5,12 +5,6 @@
 package webdriver
 
 import (
-	"errors"
-	"fmt"
-	"io"
-	"os"
-	"os/exec"
-	"strconv"
 	"time"
 )
 
